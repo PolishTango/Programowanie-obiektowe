@@ -32,7 +32,7 @@ class Gazetki extends itemy
         System.out.println("Czy zawiera informacje sportowe? "+czyjestosporcie);
         if (czyjestosporcie)
         {
-            System.out.println("Tak dzien dobry zrobilem tu zmiane");
+            System.out.println("Tak dzien dobry zrobilem tu XDDD zmiane");
         }else {
             System.out.println("Nie");
         }
