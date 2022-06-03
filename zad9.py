@@ -5,3 +5,4 @@ def Zakupy(**kwargs):
         suma+=item
     print("Laczna ilosc kupionych przedmiotow super zmiana",suma)
 Zakupy(maslo=1, cola=2, popcorn=3)
+print("Nowa galez")
